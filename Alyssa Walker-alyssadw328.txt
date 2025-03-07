@@ -1,0 +1,3 @@
+Alyssa, I like how your class show comments which include your name, class, and constructors. Especially, on line 23 when you called your
+state (another form) and you initialize your variables properties. The overall of your class library look organized and simple; I wasn't
+able to test your code with your class but, I bet that everything ran smoothly :)
