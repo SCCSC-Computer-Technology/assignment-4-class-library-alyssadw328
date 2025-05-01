@@ -1,0 +1,11 @@
+C:\Users\alyss\source\repos\AWalker-Lab4\bin\Debug\net8.0\AWalker-Lab4.deps.json
+C:\Users\alyss\source\repos\AWalker-Lab4\bin\Debug\net8.0\AWalker-Lab4.dll
+C:\Users\alyss\source\repos\AWalker-Lab4\bin\Debug\net8.0\AWalker-Lab4.pdb
+C:\Users\alyss\source\repos\AWalker-Lab4\obj\Debug\net8.0\AWalker-Lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alyss\source\repos\AWalker-Lab4\obj\Debug\net8.0\AWalker-Lab4.AssemblyInfoInputs.cache
+C:\Users\alyss\source\repos\AWalker-Lab4\obj\Debug\net8.0\AWalker-Lab4.AssemblyInfo.cs
+C:\Users\alyss\source\repos\AWalker-Lab4\obj\Debug\net8.0\AWalker-Lab4.csproj.CoreCompileInputs.cache
+C:\Users\alyss\source\repos\AWalker-Lab4\obj\Debug\net8.0\AWalker-Lab4.dll
+C:\Users\alyss\source\repos\AWalker-Lab4\obj\Debug\net8.0\refint\AWalker-Lab4.dll
+C:\Users\alyss\source\repos\AWalker-Lab4\obj\Debug\net8.0\AWalker-Lab4.pdb
+C:\Users\alyss\source\repos\AWalker-Lab4\obj\Debug\net8.0\ref\AWalker-Lab4.dll
